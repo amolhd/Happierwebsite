@@ -68,3 +68,45 @@ article {
 p:nth-child(3){
     text-align: right;
 }
+p:nth-child(4) {
+    text-align:right;
+}
+.button {
+    background-color: #000000;
+    color: #fff;
+    box-shadow: 0 2px #999;
+    border-radius: 3px;
+}
+.button:hover {background-color: #000000}
+
+.button:active {
+    background-color: #000000;
+    box-shadow: 0 5px #666;
+    transform:translateY(2px);
+}
+.button2 {
+    background-color: #000000;
+    color: #fff;
+    box-shadow: 0 2px #999;
+    border-radius: 3px;
+}
+.button2:hover {background-color: #000000}
+
+.button2:active {
+    background-color: #000000;
+    box-shadow: 0 5px #666;
+    transform:translateY(2px);
+}
+.button3 {
+    background-color: #000000;
+    color: #fff;
+    box-shadow: 0 2px #999;
+    border-radius: 3px;
+}
+.button3:hover {background-color: #000000}
+
+.button3:active {
+    background-color: #000000;
+    box-shadow: 0 5px #666;
+    transform:translateY(2px);
+}
